@@ -1,0 +1,7 @@
+int egg = 2;
+        if (egg > 3)
+            System.out.println("Рекомендую приготовить омлет");
+        else
+            System.out.println("Рекомендую позавтракать бутербродами");
+
+        System.out.print("Приятного аппетита!");
